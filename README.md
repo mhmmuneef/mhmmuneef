@@ -2,7 +2,19 @@
 <h3 align="center">Uncovering Vulnerabilities: A Journey into Penetration Testing and Bug Hunting</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmmuneef&label=Profile%20views&color=0e75b6&style=flat" alt="mhmmuneef" /> </p>
-
+<div align="center">
+    <h2>🚀 About Me</h2>
+    <p>As an accomplished IT professional with over two decades of comprehensive experience, I bring a 
+wealth of expertise in Cyber Security, IT Infrastructure, and Revenue Cycle Management (RCM) to 
+the table. With a solid foundation built over 10 years in managerial roles, my focus has been on 
+delivering top-notch ICT Services and Information Security solutions, supported by a robust set of 
+international certifications.</p>
+    <p>Throughout my career, I've demonstrated proficiency across diverse platforms, including Microsoft 
+Windows and Linux, while spearheading numerous projects encompassing planning, development, 
+deployment, implementation, and training. My areas of specialization span Infrastructure 
+Technologies, ICT Business Analysis, IT Security, IT Infrastructure Planning, and IT Services 
+Management (ITSM).</p>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/muneefmhm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muneefmhm" height="30" width="40" /></a>
@@ -18,5 +30,5 @@
 <p><a href="https://www.buymeacoffee.com/mmuneef"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mmuneef" /></a></p><br><br>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmmuneef&theme=github_dark" alt="mhmmuneef's GitHub Stats"/>
 </div>
