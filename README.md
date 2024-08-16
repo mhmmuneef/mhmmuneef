@@ -22,67 +22,7 @@ Management (ITSM).</p>
 <a href="https://www.youtube.com/c/@muneef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@muneef" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/muneef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muneef" height="30" width="40" /></a>
 </p>
-<h3 align="left">Red Team Tools:</h3>
-<p align="left"> 
-    <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/> 
-    </a> 
-    <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="40" height="40"/> 
-    </a> 
-    <!-- Add more Red Team tools as needed -->
-</p>
 
-<h3 align="left">Blue Team Tools:</h3>
-<p align="left"> 
-    <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> 
-    </a> 
-    <!-- Add more Blue Team tools as needed -->
-</p>
-
-<h3 align="left">Penetration Testing Tools:</h3>
-<p align="left"> 
-    <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/> 
-    </a> 
-    <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="40" height="40"/> 
-    </a>
-    <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" alt="burp suite" width="40" height="40"/> 
-    </a>
-    <!-- Add more Penetration Testing tools as needed -->
-</p>
-
-<h3 align="left">Bug Hunting Tools:</h3>
-<p align="left"> 
-    <a href="https://www.hackerone.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg" alt="hackerone" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.bugcrowd.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/bugcrowd/bugcrowd-icon.svg" alt="bugcrowd" width="40" height="40"/> 
-    </a> 
-    <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" alt="burp suite" width="40" height="40"/> 
-    </a>
-    <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/owasp_zap/owasp_zap-icon.svg" alt="owasp zap" width="40" height="40"/> 
-    </a>
-    <!-- Add more Bug Hunting tools as needed -->
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
