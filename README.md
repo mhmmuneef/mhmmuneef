@@ -3,7 +3,7 @@
 # MOHAMMED MUNEEF
 
 ```bash
-Cybersecurity Engineer | CTO | Infrastructure & Cloud Security
+Cybersecurity Engineer | MSP | Infrastructure & Cloud Security
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00FFAA&center=true&vCenter=true&width=800&lines=Cybersecurity+Specialist;Cloud+Security+Engineer;Penetration+Tester;Infrastructure+Architect;Automation+Engineer;CTO+at+Techx4u" />
@@ -23,7 +23,6 @@ Cybersecurity Engineer | CTO | Infrastructure & Cloud Security
 
 ```yaml
 Name: Mohammed Muneef
-Role: CTO @ Techx4u
 Experience: 10+ Years
 Specialization:
   - Cybersecurity
@@ -31,7 +30,7 @@ Specialization:
   - Infrastructure Engineering
   - VAPT
   - Automation
-Location: Sri Lanka
+Location: Sri Lanka | Australia | United States | India
 Status: Building secure systems & automation tools
 ```
 
